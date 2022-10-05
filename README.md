@@ -4,7 +4,7 @@
 
 ![화면 캡처 2022-10-05 195840](https://user-images.githubusercontent.com/71891870/194055902-64b8f4ba-8844-4322-8042-4f9ebc932f27.png)
 
-## 프로젝트 회고(네이버 카페) - > https://cafe.naver.com/riskers?iframe_url=/MyCafeIntro.nhn%3Fclubid=30670125
+## 프로젝트 회고(네이버 카페) - > https://cafe.naver.com/riskers
 
 ## Reference
 * HTML5 UP -> https://html5up.net/stellar
