@@ -13,3 +13,6 @@
 * flask
 * Apache POI
 * Python TTS
+
+# TMI
+* maven/gradle 공부하기 전에 한 프로젝트여서 라이브러리를 다 일일이 찾아서 다운받아서 톰캣에 추가
