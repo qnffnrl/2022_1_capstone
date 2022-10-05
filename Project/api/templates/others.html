@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="http://49.238.167.72:10000/others.jsp" method="post" id="form">
+        <input type="hidden" name="pureText" value="{{ str }}">
+        <input type="hidden" name="fileName" value="{{ mp3Name }}">
+    </form>
+    <script>
+        this.document.getElementById('form').submit();
+    </script>
+</body>
+</html>

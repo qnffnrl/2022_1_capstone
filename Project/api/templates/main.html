@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta chatset='UTF-8'>
+</head>
+<body>
+    <div id="page">
+        <form action="http://49.238.167.72:10000/slide.jsp" method="post" id="form" accept-charset="UTF-8">
+            <input type="hidden" name="pureText" value="{{ str }}">
+            <input type="hidden" name="fileName" value="{{ mp3Name }}">
+            <input type="hidden" name="slideLength" value="{{ slideLength }}">
+            <input type="hidden" name="realPureText" value="{{ realPureText }}">
+        </form>
+        {{ splitedText }}
+        <script>
+            this.document.getElementById('form').submit();
+        </script>
+    </div>
+</body>
+</html>
+
