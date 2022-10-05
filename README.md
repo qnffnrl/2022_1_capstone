@@ -3,6 +3,10 @@
 
 * 프로젝트 회고 - > https://cafe.naver.com/riskers?iframe_url=/MyCafeIntro.nhn%3Fclubid=30670125
 
-#info
+##info
 * tomcat run -> /usr/local/tomcat/bin/ -> ./startup.sh
 * flask run -> /home/hw/Project/api/ -> Project/api/
+
+## Tech Stack
+* Java 1.8 / tomcat
+* flask
