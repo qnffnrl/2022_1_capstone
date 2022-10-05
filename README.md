@@ -4,9 +4,9 @@
 
 ![화면 캡처 2022-10-05 195840](https://user-images.githubusercontent.com/71891870/194055902-64b8f4ba-8844-4322-8042-4f9ebc932f27.png)
 
-* 프로젝트 회고(네이버 카페) - > https://cafe.naver.com/riskers?iframe_url=/MyCafeIntro.nhn%3Fclubid=30670125
+## 프로젝트 회고(네이버 카페) - > https://cafe.naver.com/riskers?iframe_url=/MyCafeIntro.nhn%3Fclubid=30670125
 
-# Reference
+## Reference
 * HTML5 UP -> https://html5up.net/stellar
 
 ## Tech Stack
@@ -15,7 +15,7 @@
 * Apache POI
 * Python TTS
 
-# TMI
+## TMI
 * maven/gradle 공부하기 전에 한 프로젝트여서 라이브러리를 다 일일이 찾아서 다운받아서 톰캣에 추가
 
 ## Tomcat / Flask 구동 방법
