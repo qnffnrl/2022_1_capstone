@@ -9879,3 +9879,4 @@ werkzeug.routing.BuildError: Could not build url for endpoint 'speak'. Did you m
 /home/hw/.local/lib/python3.6/site-packages/urllib3/connection.py:387: SystemTimeWarning: System time is way off (before 2020-07-01). This will probably lead to SSL verification errors
   SystemTimeWarning,
 49.238.167.73 - - [02/Jan/1970 07:53:06] "POST / HTTP/1.1" 200 -
+185.180.143.143 - - [05/Oct/2022 09:50:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
