@@ -19,5 +19,5 @@
 * maven/gradle 공부하기 전에 한 프로젝트여서 라이브러리를 다 일일이 찾아서 다운받아서 톰캣에 추가
 
 ## Tomcat / Flask 구동 명령
-* tomcat run -> /usr/local/tomcat/bin/ -> ./startup.sh
+* tomcat run -> /usr/local/tomcat/bin/ -> ./startup.sh (톰캣 구동 쫌 걸림)
 * flask run -> /home/hw/Project/api/ -> nohup python -u app.py &
