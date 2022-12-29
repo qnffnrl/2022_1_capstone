@@ -1,6 +1,7 @@
 # 2022_1_capstone
 ## 2022년 1학기 캡스톤디자인 TTS를 활용한 파일리딩프로그램
 ## Serve to -> http://www.capstonemtb.kro.kr/
+## System established on Raspberry PI
 
 ![화면 캡처 2022-10-05 195840](https://user-images.githubusercontent.com/71891870/194055902-64b8f4ba-8844-4322-8042-4f9ebc932f27.png)
 
