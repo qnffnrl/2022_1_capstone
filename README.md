@@ -22,3 +22,4 @@
 ## Tomcat / Flask 구동 명령
 * tomcat run -> /usr/local/tomcat/bin/ -> ./startup.sh (톰캣 구동 쫌 걸림)
 * flask run -> /home/hw/Project/api/ -> nohup python -u app.py &
+
