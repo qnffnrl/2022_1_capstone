@@ -1,6 +1,6 @@
 # 2022_1_capstone
 ## 2022년 1학기 캡스톤디자인 TTS를 활용한 파일리딩프로그램
-## Serve to -> http://riskers.iptime.org:10000
+## Serve to -> http://risker.co.kr:10000
 ## System established on Raspberry PI
 
 ![화면 캡처 2022-10-05 195840](https://user-images.githubusercontent.com/71891870/194055902-64b8f4ba-8844-4322-8042-4f9ebc932f27.png)
@@ -18,8 +18,3 @@
 
 ## TMI
 * maven/gradle 공부하기 전에 한 프로젝트여서 라이브러리를 다 일일이 찾아서 다운받아서 톰캣에 추가
-
-## Tomcat / Flask 구동 명령
-* tomcat run -> /usr/local/tomcat/bin/ -> ./startup.sh (톰캣 구동 쫌 걸림)
-* flask run -> /home/hw/Project/api/ -> nohup python -u app.py &
-
