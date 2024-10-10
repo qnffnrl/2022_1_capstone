@@ -9880,3 +9880,42 @@ werkzeug.routing.BuildError: Could not build url for endpoint 'speak'. Did you m
   SystemTimeWarning,
 49.238.167.73 - - [02/Jan/1970 07:53:06] "POST / HTTP/1.1" 200 -
 185.180.143.143 - - [05/Oct/2022 09:50:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/home/risker/tts-file-reading/Project/api/app.py", line 1, in <module>
+    from flask import Flask, render_template, redirect, request, url_for
+ModuleNotFoundError: No module named 'flask'
+Traceback (most recent call last):
+  File "/home/risker/tts-file-reading/Project/api/app.py", line 1, in <module>
+    from flask import Flask, render_template, redirect, request, url_for
+ModuleNotFoundError: No module named 'flask'
+ * Serving Flask app 'app'
+ * Debug mode: on
+Cannot assign requested address
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 260-893-957
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 266-575-583
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
